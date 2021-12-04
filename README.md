@@ -8,6 +8,7 @@ When I started looking for data on this subject, I found a website dedicated to 
 
 # Visualization 
 ![Happiness score vs. view on people's freedom to make life choices](https://raw.githubusercontent.com/delaneygrein/DATA115_PersonalDataSet/main/Visualization_HappinessReport.png)
+![Happiness score vs. GDP per Capita](https://raw.githubusercontent.com/delaneygrein/DATA115_PersonalDataSet/main/GDP.png)
 
 
 this figure shows the happiness score from each country compared to people's view on their freedom to make life choices
