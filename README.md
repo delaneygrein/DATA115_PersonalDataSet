@@ -12,4 +12,7 @@ When I started looking for data on this subject, I found a website dedicated to 
 ![Happiness score vs. Generosity](https://raw.githubusercontent.com/delaneygrein/DATA115_PersonalDataSet/main/generosity.png)
 ![Happiness score vs. Life Expectancy](https://raw.githubusercontent.com/delaneygrein/DATA115_PersonalDataSet/main/life%20expectancy.png)
 ![Happiness score vs. Perceptions of Corruption](https://raw.githubusercontent.com/delaneygrein/DATA115_PersonalDataSet/main/perceptions%20of%20corruption.png)
+![Happiness score vs. Social Support](https://raw.githubusercontent.com/delaneygrein/DATA115_PersonalDataSet/main/social%20support.png)
 this figure shows the happiness score from each country compared to people's view on their freedom to make life choices
+
+# Analysis 
