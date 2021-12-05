@@ -13,6 +13,10 @@ When I started looking for data on this subject, I found a website dedicated to 
 ![Happiness score vs. Life Expectancy](https://raw.githubusercontent.com/delaneygrein/DATA115_PersonalDataSet/main/life%20expectancy.png)
 ![Happiness score vs. Perceptions of Corruption](https://raw.githubusercontent.com/delaneygrein/DATA115_PersonalDataSet/main/perceptions%20of%20corruption.png)
 ![Happiness score vs. Social Support](https://raw.githubusercontent.com/delaneygrein/DATA115_PersonalDataSet/main/social%20support.png)
-this figure shows the happiness score from each country compared to people's view on their freedom to make life choices
+
+I chose to create scatterplots comparing each factor that affects happiness to the happiness score to look at the relationships between each. Some of the factors were more closely correlated to the happiness score than others and there were some outliers present.
 
 # Analysis 
+I decided to look more closely at the correlations between the variables by creating a correlation table with all of the factors and their correlation values. This table does also show correlation between the factors as well, but I primarily focused on the correlation values between the happiness score and each factor. Somewhat suprisingly, the GDP per capita was the factor most closely correlated to happiness score with a correlation value of 0.794. On the other hand, generosity was least correlated to happiness score with a correlation value of 0.076. 
+
+![Correlation table](https://raw.githubusercontent.com/delaneygrein/DATA115_PersonalDataSet/main/correlation%20table.png)
