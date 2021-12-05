@@ -1,4 +1,4 @@
-# DATA115_PersonalDataSet
+# World Happiness Score and its Relationship to the Factors that Effect it
 
 # Motivation
 With everything going on in the world today, I wanted to look at happiness levels around the world. There are many factors that affect happiness like freedom, GDP, support, life expectancy, generosity, and perceptions of corruption. I wondered what the relationships were between the happiness score and each factor and which factor was most closely correlated to the happiness score. 
